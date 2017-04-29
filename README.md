@@ -5,3 +5,4 @@ This is a series of exercises done in subject DSL (Free software development) at
 Topics covered:
  - Interfaces
  - Introduction to GUI development with javax.swing
+ - Collections
